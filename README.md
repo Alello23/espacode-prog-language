@@ -1,5 +1,5 @@
 # ESPACODE language compiler
-
+![Mi proyecto](assets/espacode.jpeg)
 In this project we created the EspaCode programming language. It has the main aim of helping to teach programming to people who know Spanish and who do not have great technical knowledge nor fluency in English. 
 
 With this objective, all the keywords of the language are in Spanish, and the syntax is similar to C but with a far more simple and reduced set of functionalities.
